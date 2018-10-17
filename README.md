@@ -1,34 +1,129 @@
 # Blog Schedule Nyc-Mhtn-Web-100818
 
-## Tuesday, October 23rd
-* Cara Morelli
-* Suheyl Turac
+## Monday, October 22nd
+* Sam Turac
+* Eric Laitman
 * Saajid Khan
-* Min Hee Park
+* Sarah Pai
+* Ali Reubenstone
 
-## Wednesday, October 24th
+## Tuesday, October 23rd
 * Yu Li
 * Austin Luft
 * Ian Hollander
-
-## Thursday, October 25th
 * Vu Phong Nguyen
+
+## Wednesday, October 24th
 * Chett Tiller
 * Vera Protopopova
 * Noelle Rolwes
-
-## Tuesday, October 30th
 * Tirem Bareno-Sosna
+
+## Thursday, October 25th
 * Sydney Grant
 * Alexander Frosell
-
-## Wednesday, October 31st
 * Alexander Truong
 * Yoan Ante
+
+## Friday, October 26th
 * Peter Kreppein
 * Leslie Turis
+* Cara Morelli
+* Min Hee Park
 
-## Thursday, November 1st
+## Monday, November 5th
+* Yu Li
+* Austin Luft
+* Saajid Khan
+
+## Tuesday, November 6th
+* Ian Hollander
+* Vu Phong Nguyen
+* Sam Turac
+* Ali Reubenstone
+
+## Wednesday, November 7th
+* Chett Tiller
+* Noelle Rolwes
+* Tirem Bareno-Sosna
+
+## Monday, November 12th
+* Sydney Grant
+* Alexander Frosell
+* Alexander Truong
+* Yoan Ante
+
+## Tuesday, November 13th
+* Peter Kreppein
+* Cara Morelli
+* Min Hee Park
+
+## Wednesday, November 14th
+* Leslie Turis
 * Eric Laitman
 * Sarah Pai
+* Vera Protopopova
+
+## Monday, November 26th
+* Yu Li
+* Austin Luft
+* Saajid Khan
+
+## Tuesday, November 27th
+* Ian Hollander
+* Vu Phong Nguyen
+* Sam Turac
 * Ali Reubenstone
+
+## Wednesday, November 28th
+* Chett Tiller
+* Noelle Rolwes
+* Tirem Bareno-Sosna
+
+## Monday, December 3rd
+* Sydney Grant
+* Alexander Frosell
+* Alexander Truong
+* Yoan Ante
+
+## Tuesday, December 4th
+* Peter Kreppein
+* Cara Morelli
+* Min Hee Park
+
+## Wednesday, December 5th
+* Leslie Turis
+* Eric Laitman
+* Sarah Pai
+* Vera Protopopova
+
+## Monday, December 10th
+* Sam Turac
+* Eric Laitman
+* Saajid Khan
+* Sarah Pai
+* Ali Reubenstone
+
+## Tuesday, December 11th
+* Yu Li
+* Austin Luft
+* Ian Hollander
+* Vu Phong Nguyen
+
+## Wednesday, December 12th
+* Chett Tiller
+* Vera Protopopova
+* Noelle Rolwes
+* Tirem Bareno-Sosna
+
+## Thursday, December 13th
+* Sydney Grant
+* Alexander Frosell
+* Alexander Truong
+* Yoan Ante
+
+## Friday, December 14th
+* Peter Kreppein
+* Leslie Turis
+* Cara Morelli
+* Min Hee Park
