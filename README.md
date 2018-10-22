@@ -11,13 +11,13 @@
 * Yu Li
 * Austin Luft
 * Ian Hollander
-* Vu Phong Nguyen
 
 ## Wednesday, October 24th
 * Chett Tiller
 * Vera Protopopova
 * Noelle Rolwes
 * Tirem Bareno-Sosna
+* Vu Phong Nguyen
 
 ## Thursday, October 25th
 * Sydney Grant
