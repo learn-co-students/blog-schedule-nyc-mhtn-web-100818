@@ -24,10 +24,9 @@
 * Alexander Frosell
 * Alexander Truong
 * Yoan Ante
+* Leslie Turis
 
 ## Friday, October 26th
-* Peter Kreppein
-* Leslie Turis
 * Cara Morelli
 * Min Hee Park
 
@@ -54,7 +53,6 @@
 * Yoan Ante
 
 ## Tuesday, November 13th
-* Peter Kreppein
 * Cara Morelli
 * Min Hee Park
 
@@ -87,7 +85,6 @@
 * Yoan Ante
 
 ## Tuesday, December 4th
-* Peter Kreppein
 * Cara Morelli
 * Min Hee Park
 
@@ -123,7 +120,6 @@
 * Yoan Ante
 
 ## Friday, December 14th
-* Peter Kreppein
 * Leslie Turis
 * Cara Morelli
 * Min Hee Park
