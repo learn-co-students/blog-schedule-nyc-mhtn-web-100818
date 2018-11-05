@@ -31,7 +31,6 @@
 * Min Hee Park
 
 ## Monday, November 5th
-* Yu Li
 * Austin Luft
 * Saajid Khan
 
@@ -45,6 +44,7 @@
 * Chett Tiller
 * Noelle Rolwes
 * Tirem Bareno-Sosna
+* Yu Li
 
 ## Monday, November 12th
 * Sydney Grant
