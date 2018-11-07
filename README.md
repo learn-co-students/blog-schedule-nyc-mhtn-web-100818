@@ -15,7 +15,6 @@
 ## Wednesday, October 24th
 * Chett Tiller
 * Vera Protopopova
-* Noelle Rolwes
 * Tirem Bareno-Sosna
 * Vu Phong Nguyen
 
@@ -42,7 +41,6 @@
 
 ## Wednesday, November 7th
 * Chett Tiller
-* Noelle Rolwes
 * Tirem Bareno-Sosna
 * Yu Li
 
@@ -75,7 +73,6 @@
 
 ## Wednesday, November 28th
 * Chett Tiller
-* Noelle Rolwes
 * Tirem Bareno-Sosna
 
 ## Monday, December 3rd
@@ -110,7 +107,6 @@
 ## Wednesday, December 12th
 * Chett Tiller
 * Vera Protopopova
-* Noelle Rolwes
 * Tirem Bareno-Sosna
 
 ## Thursday, December 13th
