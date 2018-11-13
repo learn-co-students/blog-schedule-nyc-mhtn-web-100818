@@ -46,17 +46,17 @@
 
 ## Monday, November 12th
 * Sydney Grant
-* Alexander Frosell
 * Alexander Truong
-* Yoan Ante
+* Eric Laitman
 
 ## Tuesday, November 13th
 * Cara Morelli
 * Min Hee Park
+* Alexander Frosell
 
 ## Wednesday, November 14th
 * Leslie Turis
-* Eric Laitman
+* Yoan Ante
 * Sarah Pai
 * Vera Protopopova
 
