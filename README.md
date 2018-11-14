@@ -55,12 +55,12 @@
 * Alexander Frosell
 
 ## Wednesday, November 14th
-* Leslie Turis
 * Yoan Ante
 * Sarah Pai
 * Vera Protopopova
 
 ## Monday, November 26th
+* Leslie Turis
 * Yu Li
 * Austin Luft
 * Saajid Khan
