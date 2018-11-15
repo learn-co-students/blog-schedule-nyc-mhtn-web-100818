@@ -75,15 +75,13 @@
 * Chett Tiller
 * Tirem Bareno-Sosna
 
-## Monday, December 3rd
+## Tuesday, December 4th
+* Cara Morelli
+* Min Hee Park
 * Sydney Grant
 * Alexander Frosell
 * Alexander Truong
 * Yoan Ante
-
-## Tuesday, December 4th
-* Cara Morelli
-* Min Hee Park
 
 ## Wednesday, December 5th
 * Leslie Turis
