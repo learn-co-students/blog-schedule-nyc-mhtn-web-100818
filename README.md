@@ -76,7 +76,6 @@
 * Tirem Bareno-Sosna
 
 ## Tuesday, December 4th
-* Cara Morelli
 * Min Hee Park
 * Sydney Grant
 * Alexander Frosell
@@ -86,6 +85,7 @@
 ## Wednesday, December 5th
 * Leslie Turis
 * Eric Laitman
+* Cara Morelli
 * Sarah Pai
 * Vera Protopopova
 
@@ -93,27 +93,30 @@
 * Sam Turac
 * Eric Laitman
 * Saajid Khan
-* Sarah Pai
 * Ali Reubenstone
+* Min Hee Park
 
 ## Tuesday, December 11th
 * Yu Li
 * Austin Luft
 * Ian Hollander
 * Vu Phong Nguyen
+* Frida Casas
 
 ## Wednesday, December 12th
 * Chett Tiller
 * Vera Protopopova
 * Tirem Bareno-Sosna
+* Eric Klimowich
 
 ## Thursday, December 13th
 * Sydney Grant
 * Alexander Frosell
 * Alexander Truong
 * Yoan Ante
+* Mike WU
 
 ## Friday, December 14th
 * Leslie Turis
 * Cara Morelli
-* Min Hee Park
+* Sarah Pai
