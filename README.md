@@ -68,12 +68,12 @@
 ## Tuesday, November 27th
 * Ian Hollander
 * Vu Phong Nguyen
-* Sam Turac
 * Ali Reubenstone
 
 ## Wednesday, November 28th
 * Chett Tiller
 * Tirem Bareno-Sosna
+* Sam Turac
 
 ## Tuesday, December 4th
 * Min Hee Park
