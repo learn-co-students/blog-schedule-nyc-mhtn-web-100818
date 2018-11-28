@@ -91,6 +91,7 @@
 
 ## Monday, December 10th
 * Sam Turac
+* Leslie Turis
 * Eric Laitman
 * Saajid Khan
 * Ali Reubenstone
@@ -114,7 +115,7 @@
 * Alexander Frosell
 * Alexander Truong
 * Yoan Ante
-* Mike WU
+* Mike Wu
 
 ## Friday, December 14th
 * Leslie Turis
