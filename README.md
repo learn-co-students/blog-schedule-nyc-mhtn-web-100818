@@ -86,7 +86,6 @@
 * Leslie Turis
 * Eric Laitman
 * Cara Morelli
-* Sarah Pai
 * Vera Protopopova
 
 ## Monday, December 10th
@@ -108,6 +107,7 @@
 * Chett Tiller
 * Vera Protopopova
 * Tirem Bareno-Sosna
+* Sarah Pai
 * Eric Klimowich
 
 ## Thursday, December 13th
