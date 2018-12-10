@@ -92,6 +92,7 @@
 * Sam Turac
 * Ali Reubenstone
 * Min Hee Park
+* Albert Chun
 
 ## Tuesday, December 11th
 * Yu Li
