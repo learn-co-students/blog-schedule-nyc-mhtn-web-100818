@@ -90,9 +90,6 @@
 
 ## Monday, December 10th
 * Sam Turac
-* Leslie Turis
-* Eric Laitman
-* Saajid Khan
 * Ali Reubenstone
 * Min Hee Park
 
@@ -100,6 +97,7 @@
 * Yu Li
 * Austin Luft
 * Ian Hollander
+* Saajid Khan
 * Vu Phong Nguyen
 * Frida Casas
 
@@ -118,6 +116,5 @@
 * Mike Wu
 
 ## Friday, December 14th
-* Leslie Turis
 * Cara Morelli
 * Sarah Pai
