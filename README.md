@@ -89,13 +89,13 @@
 * Vera Protopopova
 
 ## Monday, December 10th
-* Sam Turac
 * Ali Reubenstone
 * Min Hee Park
 * Albert Chun
 
 ## Tuesday, December 11th
 * Yu Li
+* Sam Turac
 * Austin Luft
 * Ian Hollander
 * Saajid Khan
